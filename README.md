@@ -1,4 +1,4 @@
-# React + Vite
+# React Assingment # 1 => Convert your figma design of food wagoon into react website.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
