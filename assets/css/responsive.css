@@ -1,0 +1,282 @@
+@media (max-width: 1440px){
+    .straving-logo {
+        left: 53rem;
+    }
+    .featured-resturants {
+        width: 16.1rem;
+    }
+    .daily-discount-content {
+        left: 20rem;
+    }
+    .your-order img {
+        left: 19rem;
+    }
+    .install {
+        left: 54rem;
+    }
+    .footer-content {
+        max-width: 72rem;
+    }    
+}
+@media (max-width: 1326px){
+    .daily-discount-content {
+        left: 14rem;
+    }
+    .your-order img {
+        left: 12rem;
+    }
+    .install {
+        left: 47rem;
+    }
+}
+@media (max-width: 1272px){
+    .daily-discount-content {
+        left: 14rem;
+    }
+    .your-order img {
+        left: 12rem;
+    }
+    .install {
+        left: 47rem;
+    }
+}
+@media (max-width: 1264px){
+    .straving-logo {
+        left: 48rem;
+    }
+}
+@media (max-width: 1240px){
+    #root-container{
+        width: 80rem;
+    }
+    .straving-logo {
+        left: 48rem;
+    }
+    .daily-discount-content {
+        left: 14rem;
+    }
+    .your-order img {
+        left: 12rem;
+    }
+    .install {
+        left: 47rem;
+    }
+}
+@media (max-width: 1220px){
+    #root-container{
+        width: 79rem;
+    }
+    .straving-logo {
+        left: 48rem;
+    }
+}
+@media (max-width: 1100px){
+    #root-container{
+        width: 78rem;
+    }
+    .straving-logo {
+        left: 47rem;
+    }
+}
+@media (max-width: 1024px){
+    #root-container{
+        width: 81rem;
+    }
+    .straving-logo {
+        left: 48rem;
+    }
+}
+@media (max-width: 300px){
+    #root-container{
+        width: 76rem;
+    }
+}
+/* ===================================================================== */
+@media (max-width: 768px){
+    #root-container{
+        width: 48rem;
+        margin-left: 0.3rem;
+    }
+    .navbar {
+        flex-direction: column;
+        align-items: center;
+        row-gap: 0.7rem;
+    }
+    .are-you-straving {
+        min-height: 24rem;
+    }    
+    .straving-logo {
+        display: none;
+    }
+    .are-you-straving-content {
+        margin-left: 6.5rem;
+        padding-top: 3rem;
+    }
+    .how-does-it-work {
+        min-height: 42rem;
+    }
+    .how-does-it-work-content {
+        gap: 4rem;
+    }
+    .food-deal-card {
+        gap: 2.5rem;
+    }
+    .food-deal-card-content{
+        height: 18rem;
+    }
+    .food-deal-card-content:nth-last-child(3) .discount{
+        bottom: 25.2rem;
+    }
+    .food-deal-card-content:nth-last-child(4) .discount{
+        bottom: 25.2rem;
+    }
+    #popular-items-card {
+        min-height: 121rem;
+    }
+    .popular-items-card-content-flex {
+        row-gap: 6rem;
+        column-gap: 1.4rem;
+    }
+    .less-greater-icon {
+        margin-left: 3rem;
+        margin-right: 3.3rem;
+    }
+    #featured-resturants-content {
+        min-height: 97rem;
+    }
+    .featured-resturants-flex{
+        column-gap: 1.5rem;
+    }
+    #search-by-food {
+        min-height: 40rem;
+    }
+    #search-by-food .less-greater-icon{
+        margin-left: 0rem;
+        margin-right: 0.3rem;
+    }
+    #search-by-food .search-by-food-flex{
+        gap: 3rem;
+    }
+    .daily-discount-content {
+        width: 40rem;
+        left: 3.9rem;
+        height: 6.5rem;
+    }
+    .daily-discount-content .daily-discount img {
+        height: 3.5rem;
+    }
+    .daily-discount-content .heading h4 {
+        font-size: 1rem;
+    }
+    .daily-discount-content .heading {
+        width: 6rem;
+        height: 2.5rem;
+    }
+    .daily-discount-content .daily-discount {
+        gap: 0.5rem;
+    }
+    .your-order img {
+        height: 27rem;
+        bottom: -10rem;
+        left: 3.5rem;
+    }
+    .install {
+        left: 29.5rem;
+        width: 14.1rem;
+        bottom: 5rem;
+    }
+    .install h1 {
+        font-size: 1.8rem;
+    }
+    .install-img-1stimg img {
+        width: 11rem;
+    }
+    .install-img-2ndimg img {
+        width: 10rem;
+        margin-left: -3rem;
+    }
+    .install-the-app {
+        min-height: 35rem;
+    }
+    .install-the-app-frame img {
+        height: 32rem;
+    }
+
+
+
+
+
+    .flex-order-two img {
+        order: 0;
+        border-radius: 0rem 0rem 0.5rem 0.5rem;
+    }
+    .deal-crispy-flex {
+        flex-direction: column;
+        height: 37rem;
+        width: 39rem;
+    }
+    .deal-crispy-flex img {
+        width: 39rem;
+        border-radius: 0rem 0rem 0.5rem 0.5rem;
+    }
+    .deal-crispy-flex-gap {
+        gap: 8rem;
+    }
+    .deal-crispy {
+        min-height: 140rem;
+    }
+    .deal-crispy-content button{
+        width: 34rem;
+    }
+
+
+
+    .best-deal-content {
+        width: 20rem;
+        right: 13rem;
+        height: 7rem;
+    }
+    .best-deal-content h1 {
+        font-size: 1.4rem;
+        padding-bottom: 1.5rem;
+    }
+    .best-deal-content button {
+        height: 2rem;
+        width: 11.5rem;
+    }
+    .best-deal img {
+        height: 13rem;
+    }
+    .best-deal {
+        height: 13rem;
+    }
+
+
+
+
+
+
+    footer{
+        min-height: 61rem;
+    }
+    .footer-content{
+        max-width: 36rem;
+    }
+    footer .footer-content .cities{
+        flex-wrap: wrap;
+        column-gap: 5rem;
+        row-gap: 3rem;
+        padding-bottom: 3rem;
+    }
+    .company-information{
+        flex-direction: column;
+    }
+    .company-contact-legal {
+        width: 36rem;
+    }
+
+
+
+
+
+}
